@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/sym/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/Tests/Fixtures" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sym/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/Tests/Fixtures/fallback" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/symf/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/Tests/Fixtures" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/symf/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/Tests/Fixtures/fallback" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/symfony/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/Tests/Fixtures" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/symfony/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/Tests/Fixtures/fallback" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/symfony/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wszystko/facebookAPI/fb/vendor/facebook/php-sdk-v4/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sym/vendor/michelf/php-markdown" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sym/vendor/symfony/symfony/src/Symfony/Component/Validator/Tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/symf/vendor/symfony/symfony/src/Symfony/Component/Validator/Tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/symfony/vendor/symfony/symfony/src/Symfony/Component/Validator/Tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/my_project/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Tests/Fixtures" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sym/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Tests/Fixtures" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/symf/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Tests/Fixtures" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/symfony/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Tests/Fixtures" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sym/vendor/doctrine/cache/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/sym/vendor/doctrine/collections/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/sym/vendor/doctrine/inflector/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/symf/vendor/doctrine/cache/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/symf/vendor/doctrine/collections/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/symf/vendor/doctrine/inflector/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/symfony/vendor/doctrine/cache/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/symfony/vendor/doctrine/collections/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/symfony/vendor/doctrine/inflector/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/sym/vendor/doctrine/orm/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/symf/vendor/doctrine/orm/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/symfony/vendor/doctrine/orm/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sym/vendor/doctrine/common/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/symf/vendor/doctrine/common/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/symfony/vendor/doctrine/common/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sym/vendor/doctrine/lexer/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/symf/vendor/doctrine/lexer/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/symfony/vendor/doctrine/lexer/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sym/vendor/doctrine/cache/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/symf/vendor/doctrine/cache/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/symfony/vendor/doctrine/cache/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sym/vendor/doctrine/collections/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/symf/vendor/doctrine/collections/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/symfony/vendor/doctrine/collections/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sym/vendor/doctrine/inflector/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/symf/vendor/doctrine/inflector/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/symfony/vendor/doctrine/inflector/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sym/vendor/doctrine/annotations/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/symf/vendor/doctrine/annotations/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/symfony/vendor/doctrine/annotations/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sym/vendor/doctrine/dbal/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/symf/vendor/doctrine/dbal/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/symfony/vendor/doctrine/dbal/lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/my_project/vendor/monolog/monolog/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sym/vendor/monolog/monolog/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/symf/vendor/monolog/monolog/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/symfony/vendor/monolog/monolog/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/my_project/vendor/psr/log" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sym/vendor/psr/log" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/symf/vendor/psr/log" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/symfony/vendor/psr/log" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/my_project/vendor/symfony/symfony/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sym/vendor/symfony/symfony/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/symf/vendor/symfony/symfony/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/symfony/vendor/symfony/symfony/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/my_project/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sym/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/symf/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sym/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/Tests/Fixtures/LegacyApc/fallback" isTestSource="false" packagePrefix="LegacyApc" />
+      <sourceFolder url="file://$MODULE_DIR$/symf/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/Tests/Fixtures/LegacyApc/fallback" isTestSource="false" packagePrefix="LegacyApc" />
+      <sourceFolder url="file://$MODULE_DIR$/symfony/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/Tests/Fixtures/LegacyApc/fallback" isTestSource="false" packagePrefix="LegacyApc" />
+      <sourceFolder url="file://$MODULE_DIR$/sym/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/Tests/Fixtures/LegacyApc/alpha" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/symf/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/Tests/Fixtures/LegacyApc/alpha" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/symfony/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/Tests/Fixtures/LegacyApc/alpha" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sym/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/Tests/Fixtures/LegacyApc/beta" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/symf/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/Tests/Fixtures/LegacyApc/beta" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/symfony/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/Tests/Fixtures/LegacyApc/beta" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sym/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/Tests/Fixtures/alpha" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/symf/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/Tests/Fixtures/alpha" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/symfony/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/Tests/Fixtures/alpha" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sym/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/Tests/Fixtures/beta" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/symf/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/Tests/Fixtures/beta" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/symfony/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/Tests/Fixtures/beta" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sym/vendor/sensiolabs/security-checker" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/symf/vendor/sensiolabs/security-checker" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/symfony/vendor/sensiolabs/security-checker" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sym/vendor/doctrine/doctrine-cache-bundle/Tests/DependencyInjection" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/symf/vendor/doctrine/doctrine-cache-bundle/Tests/DependencyInjection" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/symfony/vendor/doctrine/doctrine-cache-bundle/Tests/DependencyInjection" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sym/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/Tests/Fixtures/Apc/fallback" isTestSource="false" packagePrefix="Apc" />
+      <sourceFolder url="file://$MODULE_DIR$/symf/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/Tests/Fixtures/Apc/fallback" isTestSource="false" packagePrefix="Apc" />
+      <sourceFolder url="file://$MODULE_DIR$/symfony/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/Tests/Fixtures/Apc/fallback" isTestSource="false" packagePrefix="Apc" />
+      <sourceFolder url="file://$MODULE_DIR$/sym/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/Tests/Fixtures/Apc/alpha" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/symf/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/Tests/Fixtures/Apc/alpha" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/symfony/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/Tests/Fixtures/Apc/alpha" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sym/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/Tests/Fixtures/Apc/beta" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/symf/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/Tests/Fixtures/Apc/beta" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/symfony/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/Tests/Fixtures/Apc/beta" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="PHARS">
+        <CLASSES>
+          <root url="phar://$MODULE_DIR$/symfony/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/Tests/Fixtures/includes/ProjectWithXsdExtensionInPhar.phar/" />
+          <root url="phar://$MODULE_DIR$/symf/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/Tests/Fixtures/includes/ProjectWithXsdExtensionInPhar.phar/" />
+          <root url="phar://$MODULE_DIR$/sym/composer.phar/" />
+          <root url="phar://$MODULE_DIR$/sym/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/Tests/Fixtures/includes/ProjectWithXsdExtensionInPhar.phar/" />
+        </CLASSES>
+        <SOURCES>
+          <root url="phar://$MODULE_DIR$/symfony/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/Tests/Fixtures/includes/ProjectWithXsdExtensionInPhar.phar/" />
+          <root url="phar://$MODULE_DIR$/symf/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/Tests/Fixtures/includes/ProjectWithXsdExtensionInPhar.phar/" />
+          <root url="phar://$MODULE_DIR$/sym/composer.phar/" />
+          <root url="phar://$MODULE_DIR$/sym/vendor/symfony/symfony/src/Symfony/Component/DependencyInjection/Tests/Fixtures/includes/ProjectWithXsdExtensionInPhar.phar/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
