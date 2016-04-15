@@ -1,4 +1,4 @@
-<html>
+<html xmlns="http://www.w3.org/1999/html">
 
 <head>
 
@@ -36,7 +36,7 @@
 			background-attachment: fixed;
 			background-position: center center;
 			background-size: cover;
-			min-height: 700px; <!--- minimalna wielkość jumbotron --->
+			min-height: 700px;
 		}
 		
 
@@ -57,7 +57,7 @@
 			background-position: top right; 
 			background-repeat: no-repeat;
 			margin-top: -120px;
-			min-height: 400px; <!--- minimalna wielkość jumbotron --->
+			min-height: 400px;
 			
 		
 		}
@@ -90,7 +90,28 @@
 			
 		
 		}
-		
+
+		#contact {
+			background: url(images/right.png) center top no-repeat;
+			background-position: top right;
+			background-repeat: no-repeat;
+			margin-top: -120px;
+			min-height: 400px;
+
+
+		}
+
+
+
+		#contact > div {
+			margin-top: 80px;
+
+		}
+
+		#contactImage {
+			width: 50%;
+		}
+
 		#carousel-example-generic {
 			background: url(images/left.png) center top no-repeat;
 			background-position: top right; 
@@ -140,7 +161,11 @@
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
         <li class="active"><a href="#">Krzysztof Sikora <span class="sr-only">(current)</span></a></li>
+		  <li><a href="#gallery">Galeria</a></li>
         <li><a href="kontakt.html">Skontaktuj się</a></li>
+        <li><a href="#contact">Skontaktuj się2</a></li>
+
+
 
           </ul>
         </li>
@@ -294,6 +319,7 @@
   </ol>
 
   <!-- Wrapper for slides -->
+	<a name="gallery"></a>
   <div class="carousel-inner" role="listbox">
     <div class="item active">
 		<div class="item">
@@ -375,6 +401,10 @@
    
   </div>
 
+	<!------------------------------KONIEC---------SEKCJI---------DRUGIEJ----------------------------->
+
+
+
   <!-- Controls -->
   <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
@@ -387,7 +417,60 @@
 </div>
 <!---------------------------------KONIEC----------KARUZELI-----------------GALERII------------------------->
 
+<!--kontakt-->
+<a name="contact"></a>
+<div class="container-fluid">
+	<div id="contact" class="row jumbotron top-200">
 
+		<div class="col-sm-3">
+			<!--<br><br>-->
+
+			<!--<img src="images/telefon.jpg" class="img-responsive img-rounded center-block" id="contactImage" alt="obrazek" class="ikonka">-->
+
+
+		</div>
+
+		<div class="col-sm-6">
+			<h4>Możesz do mnie napisać:</h4>
+
+			<form class="form-horizontal" role="form" method="post" action="index.php">
+				<input type="text" class="form-control" id="name" name="name" placeholder="Imię" value="">
+				<input type="text" class="form-control" id="surname" name="name" placeholder="Nazwisko" value="">
+				<input type="text" class="form-control" id="telNumber" name="name" placeholder="Numer telefonu" value="">
+				<input type="email" class="form-control" id="email" name="email" placeholder="example@domain.com" value="">
+				<textarea class="form-control" rows="4" name="message"></textarea>
+
+				<div class="btn-group btn-group-justified" role="group" aria-label="...">
+					<div class="btn-group" role="group">
+						<input id="submit" name="submit" type="submit" value="Wyślij" class="btn btn-default">
+
+					</div>
+				</div>
+
+
+
+			</form>
+		</div>
+
+
+
+		<div class="col-sm-3">
+			<!--<br><br><br><br>-->
+			<!--<h3>Skontaktuj się</h3>-->
+			<!--<p>listdlakrzycha@gmail.com</p>-->
+			<!--<p>Mobile: +48 728318771</p>-->
+			<!--<p></p>-->
+		</div>
+
+
+
+
+
+
+
+	</div>
+</div>
+<!------------------------------KONIEC---------SEKCJI---------DRUGIEJ----------------------------->
 
 
 
