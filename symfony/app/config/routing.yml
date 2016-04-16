@@ -1,3 +1,8 @@
+my_spr:
+    resource: "@MySprBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
 _homepage:
     pattern: /
     defaults: { _controller: MyLoremBundle:Default:index }
