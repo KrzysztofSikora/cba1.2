@@ -37,5 +37,5 @@ class DefaultController extends Controller
     {
         $komunikat = '<h1>Cześć!</h1>';
         return array('komunikat' => $komunikat);
-    }
+    }//
 }
