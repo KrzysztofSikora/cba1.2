@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Powitanie</title>
+    <meta charset="UTF-8" />
+</head>
+<body>
+{{ komunikat }}
+<hr />
+{{ komunikat|raw }}
+<hr />
+{{ komunikat | e }}
+<hr />
+{{ komunikat | e('js') }}
+<hr />
+{% autoescape true %}
+    {{ komunikat }}
+{% endautoescape %}
+<hr />
+{% autoescape true js %}
+    {{ komunikat }}
+{% endautoescape %}
+<hr />
+{% autoescape false %}
+    {{ komunikat }}
+{% endautoescape %}
+<hr />
+{{ " ---> <strong>brak cytowania</strong> <=== " }}
+<hr />
+{{ " ---> cytowanie (także napisów dołączonych do zmiennej komunikat): " ~ komunikat ~ " <=== " }}
+</body>
+</html>

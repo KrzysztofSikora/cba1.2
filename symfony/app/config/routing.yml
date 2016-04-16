@@ -1,3 +1,8 @@
+my_data_time:
+    resource: "@MyDataTimeBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
 my_spr:
     resource: "@MySprBundle/Controller/"
     type:     annotation

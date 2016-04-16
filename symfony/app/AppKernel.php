@@ -26,6 +26,7 @@ class AppKernel extends Kernel
             new My\IpsumBundle\MyIpsumBundle(),
             new My\DolorBundle\MyDolorBundle(),
             new My\SprBundle\MySprBundle(),
+            new My\DataTimeBundle\MyDataTimeBundle(),
         );
 
         if (in_array($this->getEnvironment(), array('dev', 'test'), true)) {
