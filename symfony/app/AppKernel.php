@@ -27,6 +27,7 @@ class AppKernel extends Kernel
             new My\DolorBundle\MyDolorBundle(),
             new My\SprBundle\MySprBundle(),
             new My\DataTimeBundle\MyDataTimeBundle(),
+            new My\MountainsBundle\MyMountainsBundle(),
         );
 
         if (in_array($this->getEnvironment(), array('dev', 'test'), true)) {

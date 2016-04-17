@@ -1,0 +1,4 @@
+services:
+#    my_mountains.example:
+#        class: My\MountainsBundle\Example
+#        arguments: ["@service_id", "plain_value", %parameter%]

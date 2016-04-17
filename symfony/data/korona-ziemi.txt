@@ -1,0 +1,9 @@
+Azja:Mount Everest:8850
+Ameryka Południowa:Aconcagua:6959
+Ameryka Północna:Mount McKinley:6194
+Afryka:Kilimandżaro:5892
+Europa:Mont Blanc:4811
+Europa:Elbrus:5642
+Australia:Góra Kościuszki:2230
+Australia:Puncak Jaya:4884
+Antarktyda:Mt. Vinson:4892
