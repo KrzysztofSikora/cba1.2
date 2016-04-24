@@ -1,0 +1,4 @@
+services:
+#    my_tabliczka.example:
+#        class: My\TabliczkaBundle\Example
+#        arguments: ["@service_id", "plain_value", %parameter%]

@@ -1,0 +1,252 @@
+|Gilgamesz|babil|XVIII-XVw.p.n.e.
+|Rigweda|ind.|XVw.p.n.e.
+|Psalmy|hebr.|XI-Iw.p.n.e.
+Homer|Iliada i Odyseja|gr.|ok.800 p.n.e.
+|Pieśń nad pieśniami|hebr.|VIII-IIw.p.n.e.
+Ezop|Bajki|gr.|VIw.p.n.e.
+Herodot|Dzieje|gr.|Vw.p.n.e.
+Ajschylos|Oresteja|gr.|Vw.p.n.e.
+Eurypides|Medea|gr.|Vw.p.n.e.
+Sofokles|Antygona|gr.|441(?)p.n.e.
+Arystofanes|Żaby|gr.|405p.n.e.
+Platon|Uczta|gr.|IVw.p.n.e.
+|Mahabharata|ind.|IVw.p.n.e.-IVw.n.e.
+Tukidydes|Wojna peloponeska|gr.|IVw.p.n.e.
+Ksenofont|Anabaza|gr|IVw.p.n.e.
+|Ramajana|ind.|IVw.p.n.e.-IIw.n.e.
+Plaut|Żołnierz samochwał|rzym.|IIIw.p.n.e.
+Cezar|O wojnie gallickiej|rzym.|Iw.p.n.e.
+Liwiusz|Dzieje|rzym|Iw.p.n.e.
+Horacy|Pieśni|rzym.|31-23p.n.e.
+Wergiliusz|Eneida|rzym.|29-19p.n.e.
+Owidiusz|Metamorfozy|rzym.|Iw.n.e.
+Plutarch|Moralia|gr.|pocz.IIw.
+Tacyt|Historiae|rzym.|pocz.IIw.
+Juwenalis|Satyry|rzym|1poł.IIw.
+Apulejusz|Złoty osioł|rzym.|poł.IIw.
+Augustyn św.|Wyznania|łac.|IVw.
+Kalidasa|Siakuntala|ind.|ok.Vw.
+Firdausi Murasaki|Szah-name|pers.|Xw.
+Shikibu|Gencji|jap.|pocz.XIw.
+|Pieśń o Rolandzie|fr.|ok.1100
+Omar Chajjam|Rubajaty|per.|XI/XIIw.
+|Pieśń o Cydzie|hisz.|ok.1140
+|Tristan i Izolda|fr.|XIIw.
+Chretien de Troyes|Parsifal|fr.|ok.1182
+|Słowo o wyprawie Igora|ros.|1187(?)
+Rustaweli|Wiciądz w tygrysiej skórze|gruz.|2poł.XIIw.
+|Pieśń o Nibelungach|niem.|XII-XIIIw.
+Wolfram von Eschenbach|Parzival|niem.|1200-16
+|Sagi islandzkie|skand.|XIIIw.
+|Powieść o Róży|fr.|XIIIw.
+Jacopo da Voragine|Złota legenda|wł.|ok.1255-60
+Saadi|Gulistan|pers.|1258
+Dante|Boska Komedia|wł.|pocz.XIVw.
+Hafiz|Dywan|pers.|XIVw.
+Petrarca|Księga pieśni|wł.|XIVw.
+Boccaccio|Dekameron|wł.|1348-53
+Chaucer|Opowieści kanterberyjskie|ang.|1387-92
+Villon|Wielki testament|fr.|1461
+|Tysiąc i jedna noc|arab.|XVw.
+Rojas|Celestyna|hiszp.|1499
+Erazm z Rotterdamu|Pochwała głupoty|hol.|1509
+Morus|Utopia|ang.|1516
+Ariosto|Orland szalony|wł.|1516-32
+Machiavelli|Książę|wł.|1532
+Rabelais|Gargantua i Pantagruel|fr.|1532-64
+Ronsard|Ody|fr.|1550
+|Żywot łazika z Tormesu|hiszp.|1554
+Camoes|Luzjady|portug.|1574
+Tasso|Jerozolima wyzwolona|wł.|1575
+Montaigne|Próby|fr.|1580-88
+Szekspir|Romeo i Julia|ang.|1595
+Szekspir|Hamlet|ang.|1601
+Szekspir|Otello|ang.|1603
+Szekspir|Makbet|ang.|1606
+Cervantes|Don Kichot|hiszp.|1605-15
+Lope de Vega|Owcze źródło|hiszp.|ok.1616(?)
+Lope de Vega|Dziewczyna z dzbanem|hiszp.|po 1630
+Calderon|Książę Niezłomny|hiszp.|1635
+Corneille|Cyd|fr.|1636
+Moliere|Świętoszek|fr.|1664
+La Rochefoucauld|Maksymy|fr.|1665-78
+Moliere|Mizantrop|fr.|1666
+Milton|Raj utracony|ang.|1667
+La Fontaine|Bajki|fr.|1668-94
+Pascal|Myśl|fr.|1669
+Boileau|Sztuka poetycka|fr.|1674
+Racine|Fedra|fr.|1677
+La Bruyere|Charaktery|fr.|1688
+Lesage|Diabeł kulawy|fr.|1707
+Defoe|Przypadki Robinsona Cruzoe|ang.|1719
+Montesquieu|Listy perskie|fr.|1721
+Swift|Podróże Guliwera|ang.|1726
+Prevost|Manon Lescaut|fr.|1731
+Richardson|Clarissa|ang|1747-48
+Fielding|Tom Jones|ang.|1749
+Goldoni|Mirandolina|wł.|1753
+Voltaire|Kandyd|fr.|1759
+Sterne|Życie i myśl Tristrama Shandy|ang.|1760-67
+Rousseau|Nowa Heloiza|fr.|1761
+Macpherson|Pieśni Osjana|ang.|1765
+Sterne|Podróż sentymentalna|ang.|1768
+Diderot|Kubuś fatalista i jego pan|fr.|1773
+Goethe|Cierpienia młodego Wertera|niem.|1774
+Beaumarchais|Cyrulik sewilski|fr.|1775
+Schiller|Zbójcy|niem.|1781
+Laclos|Niebezpieczne związki|fr.|1782
+Schiller|Intryga i miłość|niem.|1784
+Novalis|Hymny do nocy|niem.|1800
+Chateaubriand|Rene|fr.|1802
+Goethe|Faust|niem.|1806-32
+Kryłow|Bajki|ros.|1809
+Kleist|Rozbity dzban|niem.|1811
+Bracia Grimm|Baśnie|niem.|1812-15
+Byron|Wędrówki Childe Harolda|ang.|1812-18
+Constant|Adolf|fr.|1816
+Hoffmann|Bracia Serafiońscy|niem.|1819-21
+Byron|Don Juan|ang|1819-24
+Scott|Ivanhoe|ang.|1820
+Shelley|Prometeusz rozpętany|ang.|1820
+Lamartine|Rozmyślania|fr.|1820
+Gribojedow|Mądremu biada|ros.|1820-24
+Puszkin|Eugeniusz Oniegin|ros.|1823-31
+Manzoni|Narzeczeni|wł.|1825-27
+Merimee|Teatr Klary Gazul|fr.|1825-42
+Cooper|Ostatni Mohikanin|amer.|1826
+Heine|Księga pieśni|niem.|1827
+Hugo|Hernani|fr.|1830
+Stendhal|Czerwone i czarne|fr.|1830
+Leopardi|Pieśni|wł.|1831
+Balzac|Ojciec Goriot|fr.|1834-35
+|Kalewala|fiń.|1835(oprac.)
+Andersen|Baśnie|duń.|1835-72
+Musset|Spowiedź dziecięcia wieku|fr.|1836
+Gogol|Rewizor|ros.|1836
+Dickens|Klub Pickwicka|ang.|1837
+Balzac|Stracone złudzenia|fr.|1837-43
+Stendhal|Pustelnia parmeńska|fr.|1839
+Poe|Groteski i arabeski|amer.|1840
+Lermontow|Bohater naszych czasów|ros.|1840
+Gogol|Marwe dusze|ros.|1842
+Dumas (ojciec)|Trzej muszkieterowie|fr.|1844
+Thackeray|Targowisko próżności|ang.|1847-48
+Dickens|David Copperfield|ang.|1849-50
+Melville|Moby Dick|amer.|1851
+Dumas(syn)|Dama kameliowa|fr.|1852
+Beecher-Stowe|Chata wuja Toma|amer.|1852
+Keller|Zielony Henryk|szwajc.|1854
+Whitman|Źdżbła trawy|amer.|1855
+Baudelaire|Kwiaty zła|fr.|1857
+Bjornson|Dziewcze ze Słonecznego Wzgórza|norw.|1857
+Flaubert|Pani Bovary|fr.|1857
+Gonczarow|Obłomow|ros.|1859
+Turgieniew|Ojcowie i dzieci|ros.|1861
+Hugo|Nędznicy|fr.|1861
+Renan|Żywot Jezusa|fr.|1863
+Carducci|Hymn do szatana|wł.|1863
+Carroll|Alicja w krainie czarów|ang.|1865
+Tołstoj L|Wojna i pokój|ros|1865-69
+Dostojewski|Zbrodnia i kara|ros.|1866
+De Coster|Dyl Sowizdrzał|flam.|1869
+Ostrowski A|Las|ros.|1871
+Zola|Rodzina Rougon-MasquartOw|fr.|1871-93
+Daudet|Tartaren z Tarasconu|fr.|1872
+Verne|W 80 dni dokoła świata|fr.|1873
+Rimbaud|Sezon w piekle|fr|1873
+Verlaine|Romance bez słów|fr.|1874
+Mark Twain|Przygody Tomka Sawyera|amer.|1876
+Tołstoj L|Anna Karenina|ros.|1877
+Ibsen|Nora(Dom lalki)|norw.|1879
+Dostojewski|Bracia Karamazow|ros.|1879-80
+Jacobsen|Niels Lyhne|duń.|1880
+Stewenson|Wyspa skarbów|ang.|1883
+Nietzsche|Tako rzecze Zarathustra|niem.|1883-91
+Zola|Germinal|fr.|1885
+Maupasant|Bel Ami|fr.|1885
+Strindberg|Ojciec|szwedz.|1887
+Hamsun|Głód|norw.|1890
+Lagerlof|Gosta Berling|szwedz.|1891
+Wilde|Portret Doriana Graya|ang.|1891
+Hauptmann G.|Tkacze|niem.|1892
+Maeterlinck|Peleas i Melisanda|fr.|1893
+France|Gospoda pod Królową Gęsią Nóżką|fr.|1893
+Kipling|Księga dżungli|ang.|1894
+Wells|Wojna światów|ang.|1898
+Tołstoj L|Zmartwychwstanie|ros.|1899
+Conrad|Lord Jim|ang.|1900
+Mann Th.|Buddenbrookowie|niem.|1901
+Gorki|Na dnie|ros.|1902
+James H.|Ambasadorowie|amer.|1903
+Czechow|Wiśniowy sad|ros.|1904
+Rolland|Jan Krzysztof|fr.|1904-12
+Sinclair|Grzęzawisko|amer.|1906
+Gorki|Matka|ros.|1906
+Galsworthy|Saga rodu Forsytów|ang.|1906-22
+London|Martin Eden|amer.|1909
+Bunin|Wieś|ros.|1910
+Shaw|Pigmalion|ang.|1913
+Lawrence D.H.|Synowie i kochankowie|ang.|1913
+Apollinaire|Alohole|fr.|1913
+Proust|W poszukiwaniu straconego czasu|fr.|1913-27
+Gide|Lochy Watykanu|fr.|1914
+Unamuno|Mgła|hiszp.|1914
+Barbusse|Ogień|fr.|1916
+Błok|Dwunastu|ros.|1918
+Undest|Krystyna córka Lawransa|norw.|1920-22
+Hasek|Przygody dobrego wojaka Szwejka|czes.|1920-23
+Pirandello|Sześć postaci scenicznych w poszukiwaniu autora|wł.|1921
+Tołstoj A.N.|Droga przez mękę|ros.|1921-41
+Lewis S|Babbitt|amer.|1922
+Joyce|Ulisses|ang.|1922
+Eliot T.S.|Jałowa ziemia|ang.|1922
+Valery|Gusła|fr.|1922
+Martin du Gard|Rodzina Thibault|fr.|1922-40
+Rilke|Elegie duinejskie|niem.|1923
+Babel|Armia Konna|ros.|1923-25
+Mann Th.|Czarodziejska góra|niem.|1924
+Gorki|Artamonow i synowie|ros.|1925
+Dos Passos|Manhattan Transfer|amer.|1925
+Dreiser|Tragedia amerykańska|amer.|1925
+Kafka|Proces|austr.|1925
+Bernanos|Pod słońcem szatana|fr.|1926
+Gide|Fałszerze|fr.|1926
+Fadiejew|Klęska|ros.|1927
+Hesse|Wilk stepowy|niem.|1927
+Majakowski|Dobrze!|ros.|1927
+Zweig A.|Spór o sierżanta Griszę|niem.|1927
+Brecht|Opera za trzy grosze|niem.|1928
+Garcia Lorca Szołochow|Cichy Don|ros.|1928-40
+Remarque|Na zachodzie bez zmian|niem.|1929
+Giraudoux|Amfitrion 38|fr.|1929
+Musli|Człowiek bez właściwości|austr.|1930-43
+Tołstoj A.N.|Piotr I|ros.|1930-44
+Saint-Exupery|Nocny lot|fr.|1931
+Huxley A.|Nowy wspaniały świat|ang.|1932
+Mauriac|Kłębowisko żmij|fr.|1932
+Faulkner|Światłość wsierpniu|amer.|1932
+Coline|Podróż do kresu nocy|fr.|1932
+Malraux|Dola człowiecza|fr|1933
+Miller H.|Zwrotnik Raka|amer.|1934
+Mann H.|Henryk IV|niem|1935-38
+Capek K.|Inwazja Jaszczurów|czes.|1936
+Faulkner|Absalomie, Absalomie!|amer.|1936
+Steinbeck|Grona gniewu|amer.|1939
+Hemingway|Komu bije dzwon|amer.|1940
+Erenburg|Upadek Paryża|ros.|1942
+Seghers|Siódmy krzyż|niem.|1942
+Andrić|Most na Drinie|jugosł.|1945
+Sartre|Drogi wolności|fr.|1945-49
+Warren|Gubernator|amer.|1946
+Broch|Śmierć Wergiliusza|austr.|1947
+Mann Th.|Doktor Faustus|niem.|1947
+Camus|Dżuma|fr.|1947
+Greene|Sedno sprawy|ang.|1948
+Beckett|Czekając na Godota|irl.|1952
+Ionesco|Krzesła|fr.|1952
+Carpentier|Podróż do źródeł czasu|kubańska|1953
+Camus|Upadek|fr.|1956
+Butor|Odmiany czasu|fr.|1956
+Durrenmatt|Wizyta sarszej pani|szwajc.|1956
+Frisch|Homo Faber|szwajc.|1957
+Aragon|Wielki Tydzień|fr.|1958
